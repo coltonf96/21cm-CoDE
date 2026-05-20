@@ -1,0 +1,13 @@
+*.npy
+*/
+*.py
+*~
+*.pbs
+*.c
+*#
+*.pdf
+*.log
+*.so
+*.csv
+Testing_New_Fig_1.pyx
+Plot_Movie.pyx
